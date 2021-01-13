@@ -6,6 +6,7 @@ s.summary = "Dicoding Core.framework for Expert Submission"
 s.requires_arc = true
 s.version = "1.0.0"
 s.dependency 'RealmSwift'
+s.dependency 'FirebaseInstanceID'
 s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Arya S" => "arya.surya021@gmail.com" }
 s.homepage = "https://github.com/aryasurya21/NCore"
